@@ -7,8 +7,8 @@ The objective of this project was to analyze sales performance, Average rent per
 - Power Query (for data cleaning and validation)
 
 ##  Key KPIs Created (Using DAX)
-- Total Revenue = SUM(Sales[Amount])
-- Total Customers = DISTINCTCOUNT(Customer[Customer_ID])
+- Total Revenue 
+- Total Customers 
 - Sales per Customer
 - Rent per Customer
 - City-level Revenue
